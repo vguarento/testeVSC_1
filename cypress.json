@@ -1,0 +1,5 @@
+{
+    "env":{
+        "API_BASE_URL": "http://fleury-dev-sp.vm.touchtec.com.br/agendamento/modules/fleury/api/"
+    }
+}

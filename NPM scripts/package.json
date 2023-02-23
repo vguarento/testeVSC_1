@@ -1,0 +1,21 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "Sample project to demonstrate a cy.dataTest Cypress custom command",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "keywords": [
+    "Cypress.io",
+    "Talking About Testing",
+    "Pitadas de Cypress",
+    "cy.dataTest()",
+    "Modern Web Testing"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^4.12.1"
+  }
+}
